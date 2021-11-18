@@ -1,0 +1,16 @@
+.App {
+  font-family: "Segoe UI";
+  text-align: center;
+  width: 600px;
+  margin: 40px auto;
+}
+
+.Image {
+  margin-left: -10px;
+  text-align: center;
+  background-color: aqua;
+}
+
+img {
+  box-shadow: -1px 1px 18px 15px #65c6df;
+}
